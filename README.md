@@ -1,17 +1,16 @@
 # Forge 2 Kanban Board
 
-AI-powered Kanban Board generated with OpenClaw and GPT-5.5 for NMG Forge 2.
+AI-powered Kanban Board built for NMG Forge 2 using OpenClaw and GPT-5.5.
 
 ## Features
 
-- Create and manage Boards
-- Create, update, and delete Lists
-- Create, edit, move, and delete Cards
-- Tag management and card tagging
-- Due date tracking
-- Member assignment
-- RESTful Laravel API
-- React-based frontend interface
+- Board Management
+- Kanban Lists
+- Drag & Drop Cards
+- Due Dates
+- Tags
+- Member Assignment
+- REST API Backend
 
 ## Tech Stack
 
@@ -23,7 +22,6 @@ AI-powered Kanban Board generated with OpenClaw and GPT-5.5 for NMG Forge 2.
 ### Frontend
 - React
 - Vite
-- JavaScript
 
 ### AI Development
 - OpenClaw
@@ -31,41 +29,21 @@ AI-powered Kanban Board generated with OpenClaw and GPT-5.5 for NMG Forge 2.
 
 ## Project Structure
 
-```
 backend/
 frontend/
 screenshots/
-README.md
-ARCHITECTURE.md
-agent-log.md
-```
 
 ## Evidence
 
-The `screenshots/` folder contains:
+Screenshots included:
 
-- Backend project structure
-- Frontend project structure
-- Board model implementation
-- API routes implementation
-- OpenClaw agent interaction
+- backendtree.png
+- frontendtree.png
+- boardmodel.png
+- apiroutes.png
+- Slack-chatloop.png
 
 ## Repository
 
-GitHub Repository:
+GitHub repository created and maintained with commit history and AI-assisted development workflow.
 
-https://github.com/AnamikaSingh652/forge2-kanban-board
-
-## Notes
-
-This project was generated and iteratively refined using OpenClaw with GPT-5.5 as part of the NMG Forge 2 challenge.
-
-## Status
-
-✅ Backend Implemented
-
-✅ Frontend Implemented
-
-✅ GitHub Repository Published
-
-✅ Evidence Package Included
